@@ -1,0 +1,23 @@
+.logo{
+    position: absolute;
+    height: 6vw ;
+    width: 7.4vw;
+    top: 2.3vw;
+    left: 6.9vw;
+}
+.pizza{
+    position: absolute;
+    top: 0.34vw;
+    height: 55.83vw ;
+    width: 51.04vw;
+    left: 48.95vw;
+    border-radius: 0 0 0 13.81vw;
+
+}
+.vector{
+    position: absolute;
+    height: 58.26vw ;
+    width: 52.23vw;
+   
+    left: 47.84vw;
+}
