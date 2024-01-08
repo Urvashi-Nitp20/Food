@@ -18,6 +18,24 @@
     position: absolute;
     height: 58.26vw ;
     width: 52.23vw;
-   
+   top:0;
     left: 47.84vw;
+}
+.head{
+   display: flex;
+   align-items: center;
+   height: 804px;
+   justify-content:space-around;
+}
+.heading{
+  
+ text-align: left;
+   
+}
+
+.heading1{
+    font-family: Source Sans Pro;
+    font-weight: 700;
+    font-size: 62px;
+     color: #0E2368;
 }
